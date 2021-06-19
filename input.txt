@@ -1,0 +1,26 @@
+create_parking_lot 6
+park KA-00-HH-1234 White
+park KA-00-HH-7777 RED
+Park KA-00-BB-1234 White
+park KA-00-HB-9999 White
+park KA-00-EE-5678 Red
+park KA-00-DD-5000 Black
+slot_numbers_for_cars_with_colour white
+Leave 4
+status
+slot_numbers_for_cars_with_colour White
+status
+park KA-00-EE-5678 Red
+park KA-00-DD-5000 Black
+Leave 1
+Leave 5
+status
+slot_numbers_for_cars_with_colour white
+park KA-00-HH-1284 White
+status
+registration_numbers_for_cars_with_colour White
+slot_numbers_for_cars_with_colour white
+slot_number_for_registration_number KA-00-HH-7777
+slot_number_for_registration_number KA-00-HH-5000
+status
+slot_numbers_for_cars_with_colour white
